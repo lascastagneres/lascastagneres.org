@@ -1,0 +1,23 @@
+{
+  "Header": {
+    "subtitle": "FERME EXPERIMENTALE"
+  },
+  "Menu": {
+    "activites": "act1|act2|act3"
+  },
+  "Home": {
+    "desc": "VENEZ FAIRE DES ACTIVITES DE PLEIN AIR ET DECOUVRIR UN LIEU ET UNE REGION AVEC DES LOCAUX SIMPAS!\n\nMarre de faire des powerpoint pour expliquer au ministre de l'agriculture combien fait 1 hectare?\n\nLa réunionnite des grandes boîtes vous rend le quotidien incensé?\n\nRejoignez nous à Las Castagnères pour remettre du sens dans votre quotidien. Pour un week-end ou plus si affinité. On a du matos et des idées!",
+    "menu": "Je choisis mes activités"
+  },
+  "PathnamesPage": {
+    "title": "Pathnames",
+    "description": "<p>The pathnames are internationalized too.</p><p>If you're using the default language English, you'll see <code>/en/pathnames</code> in the browser address bar on this page.</p><p>If you change the locale to German, the URL is localized accordingly (<code>/de/pfadnamen</code>).</p>"
+  },
+  "LocaleLayout": {
+    "title": "Las Castagnères - Ferme rénovée en écolieu"
+  },
+  "Navigation": {
+    "home": "Home",
+    "pathnames": "Pathnames"
+  }
+}
