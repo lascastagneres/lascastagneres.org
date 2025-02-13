@@ -7,7 +7,7 @@
     "dev": "next dev",
     "build": "next build --no-lint",
     "start": "next start",
-    "export": "next export",
+    "deploy": "git add . && git commit -m 'deploy' && git push",
     "lint": "next lint",
     "lint:fix": "eslint . --fix",
     "check-types": "tsc --project tsconfig.json --pretty --noEmit"
