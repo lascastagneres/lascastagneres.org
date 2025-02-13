@@ -6,7 +6,8 @@ const withNextIntlConfig = createNextIntlPlugin('./src/i18n/i18n.ts');
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   output: "export",
-  basePath: "/website",
+  distDir: "docs",
+  basePath: "/lascastagneres.org",
   images: {
     unoptimized: true, // Fix image issues since GitHub Pages doesn't support Next.js image optimization
   },
